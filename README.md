@@ -56,11 +56,10 @@ Estimated Total Monthly Savings: $25.56
 ## ⚙️ Tech Stack
 - Azure PowerShell (Az Modules)
 - PowerShell Scripting
-- Azure Resource Graph
 - Azure Compute / Network APIs
 - Infrastructure Cost Analysis
 - HTML Report Generation
-- Azure Automation Ready
+
 
 ## 📸 Screenshots
 ### HTML Cost Optimization Report
