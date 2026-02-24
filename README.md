@@ -47,12 +47,11 @@ Example findings from learning environment:
 
 | Resource Type | Count | Estimated Monthly Savings |
 |---|---|---|
-| Orphaned Disks | 3 | $48 |
-| Unused Public IPs | 1 | $3.5 |
-| Stopped VMs | 1 | $32 |
+| Orphaned Disks | 4 | $20.48 |
+| Stopped VMs | 1 | $5.08 |
 
 
-Estimated Total Monthly Savings: $38.5
+Estimated Total Monthly Savings: $25.56
 
 ## ⚙️ Tech Stack
 - Azure PowerShell (Az Modules)
