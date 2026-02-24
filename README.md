@@ -5,7 +5,7 @@ Automates Azure cost analysis using PowerShell + Resource Graph Detects orphaned
 Cloud Cost Optimization • Azure Automation • Infrastructure Engineering
 
 ## 🚀 Features
-- Automated Azure cost analysis using PowerShell and Azure Resource Graph
+- Automated Azure cost analysis using PowerShell
 - Detects orphaned managed disks and unused storage resources
 - Identifies unattached Public IPs and unused network interfaces
 - Finds stopped or deallocated VMs still incurring disk costs
@@ -27,7 +27,6 @@ Workflow:
 
 Components:
 - PowerShell Automation Script
-- Azure Resource Graph Queries
 - HTML Report Generator
 - Cost Estimation Engine
 
