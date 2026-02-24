@@ -64,16 +64,18 @@ Estimated Total Monthly Savings: $25.56
 
 ## 📸 Screenshots
 ### HTML Cost Optimization Report
-![HTML Report](screenshots/report.png)
+![HTML Report](screenshots/HTML.png)
 
 ### Azure Deployment Example
-![Azure Resources](screenshots/resources.png)
+![Azure Resources](screenshots/AzPortal.png)
+![Azure Resources](screenshots/AzPortal2.png)
+![Azure Resources](screenshots/AzPortal3.png)
 
 ### Script Execution Output
-![PowerShell Output](screenshots/script-run.png)
+![PowerShell Output](screenshots/PowerShell.png)
 
-### Architecture Overview
-![Architecture Diagram](screenshots/architecture.png)
+### GitHub Actions
+![GitHub](screenshots/GitHub.png)
 
 ## 🧠 Lessons Learned
 - Identifying hidden Azure costs requires cross-resource analysis
